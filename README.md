@@ -1,10 +1,3 @@
-## Starter Project
-
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
-
 ## Styled Components
 
 [Styled-Components - Main Docs](https://styled-components.com/)
@@ -83,10 +76,6 @@ version used - "react-router-dom": "^5.2.0",
 
 - [React SDK Docs](https://auth0.com/docs/libraries/auth0-react)
 - [REACT SDK API Docs](https://auth0.github.io/auth0-react/)
-
-## Deployment
-
-[Netlify](https://www.netlify.com/)
 
 ## Additional Info
 
