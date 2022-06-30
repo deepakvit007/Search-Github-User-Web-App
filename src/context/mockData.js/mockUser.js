@@ -1,0 +1,37 @@
+export default// 20220630171327
+// https://api.github.com/users/deepakvit007
+
+{
+  "login": "deepakvit007",
+  "id": 72258062,
+  "node_id": "MDQ6VXNlcjcyMjU4MDYy",
+  "avatar_url": "https://avatars.githubusercontent.com/u/72258062?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/deepakvit007",
+  "html_url": "https://github.com/deepakvit007",
+  "followers_url": "https://api.github.com/users/deepakvit007/followers",
+  "following_url": "https://api.github.com/users/deepakvit007/following{/other_user}",
+  "gists_url": "https://api.github.com/users/deepakvit007/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/deepakvit007/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/deepakvit007/subscriptions",
+  "organizations_url": "https://api.github.com/users/deepakvit007/orgs",
+  "repos_url": "https://api.github.com/users/deepakvit007/repos",
+  "events_url": "https://api.github.com/users/deepakvit007/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/deepakvit007/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "Deepak Kumar",
+  "company": "Vellore Institute Of Technology (Vellore, Tamil Nadu)",
+  "blog": "",
+  "location": "Vellore",
+  "email": null,
+  "hireable": null,
+  "bio": "C++ || JAVA || FRONTENED DEVELOPER || ML || Python",
+  "twitter_username": "deepakraj810",
+  "public_repos": 8,
+  "public_gists": 0,
+  "followers": 2,
+  "following": 3,
+  "created_at": "2020-10-02T11:38:18Z",
+  "updated_at": "2022-06-28T12:22:47Z"
+}
