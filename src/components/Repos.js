@@ -78,7 +78,7 @@ const Wrapper = styled.div`
   @media (min-width: 1200px) {
     grid-template-columns: 2fr 3fr;
   }
-
+${'' /* make responsive */}
   div {
     width: 100% !important;
   }
